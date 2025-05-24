@@ -18,4 +18,4 @@ A Java Swing desktop application to solve and analyze polynomial equations with 
 
 ## 👩‍💻 Developer
 
-Created with 💙 by **Danya-Smaik**
+Created  by **Danya-Smaik**
