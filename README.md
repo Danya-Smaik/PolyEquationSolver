@@ -33,8 +33,4 @@ Here are some screenshots of the application interface:
 ## 👩‍💻 Developer
 
 Created with 💙 by **Danya-Smaik**
-=======
-## 👩‍💻 Developer
 
-Created  by **Danya-Smaik**
->>>>>>> e791ee3ccbc530017aa033cb28dde74e31ee0252
